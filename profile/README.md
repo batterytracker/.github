@@ -1,3 +1,3 @@
 ## Battery Tracker
 
-Battery Tracker is a web-based battery tracking + inventory tool for RC pilots and roboticists.
+BatteryTracker is the simplest way to keep a safe inventory of your batteries -- Built for RC pilots, roboticists, and makers.
